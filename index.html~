@@ -4,7 +4,7 @@
 <title>New page for GIt</title>
 <meta name="generator" content="Bluefish 2.2.5" >
 <meta name="author" content="Anna" >
-<meta name="date" content="2016-03-12T00:55:57+0200" >
+<meta name="date" content="2016-03-12T14:22:36+0200" >
 <meta name="copyright" content="">
 <meta name="keywords" content="">
 <meta name="description" content="">
@@ -16,5 +16,6 @@
 </head>
 <body>
 <h1>New page for GIT project</h1>
+<p>New some text</p>
 </body>
 </html>
